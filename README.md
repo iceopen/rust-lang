@@ -4,6 +4,7 @@
 
 ## 目录介绍
 
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 
 ## 优秀的开源项目
 
