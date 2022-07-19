@@ -1,4 +1,4 @@
-# Rust 我的学习和案例
+# Rust 我的学习和案例[![Build Status](https://cloud.drone.io/api/badges/iceopen/rust-lang/status.svg)](https://cloud.drone.io/iceopen/rust-lang)
 
 个人最喜欢的还是 Go 语言，无论从开发效率还是运行性能上考虑，Go 都是非常不错的选择。当然，如果现在要过于关注性能以及跟操作系统打交道，我会使用 Rust。Go 和 Rust 应该是我主要的两个开发语言
 

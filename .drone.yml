@@ -1,0 +1,11 @@
+---
+kind: pipeline
+name: rust-1-16
+
+steps:
+  - name: test
+    image: rust:1.62-buster
+    commands:
+      - cargo test
+      - cargo build
+...

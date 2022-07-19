@@ -5,4 +5,5 @@ edition = "2021"
 
 [dependencies]
 ch04-02-references-and-borrowing = { path = "./components/ch04-02-references-and-borrowing" }
-ch04-03-slices = {path="./components/ch04-03-slices"}
+ch04-03-slices = { path="./components/ch04-03-slices" }
+ch05-01-defining-structs = { path="./components/ch05-01-defining-structs" }
